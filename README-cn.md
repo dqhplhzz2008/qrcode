@@ -237,7 +237,7 @@ Optional parameters
 
 ## 使用提示
 
-* 请采用**正方形**或近似正方形的图片
+* 请采用正方形或近似正方形的图片
 
 * 建议在图片尺寸大的时候使用 `-v` 的值也应该**适当**变大。
 
@@ -278,9 +278,9 @@ Optional parameters
 
 ## 运行环境
 
-* Linux, Python 3
-* Windows, Python 3
-* Mac, Python 3
+* Linux, Python 3.5+
+* Windows, Python 3.5+
+* Mac, Python 3.5+
 
 
 ​    
